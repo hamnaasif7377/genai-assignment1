@@ -1,0 +1,12 @@
+﻿{
+  "lr": 0.00022861446796871437,
+  "batch_size": 16,
+  "bottleneck_dim": 128,
+  "base_ch": 32,
+  "dropout": 0.03257648979859229,
+  "alpha": 0.9408975842939825,
+  "optuna_trial_number": 23,
+  "optuna_best_val_loss": 0.1341090359441612,
+  "final_training_epochs": 60,
+  "final_best_val_loss": 0.1059
+}
