@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn[standard]
+python-multipart
+onnxruntime
+pillow
+numpy
+opencv-python-headless
+pydantic
